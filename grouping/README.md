@@ -31,5 +31,5 @@ and the matching type.
 
 ## Output
 
-The expected output is a new CSV file that has rows marked with the id
-that represents that group of rows.
+The expected output is a new CSV file that has the original rows marked
+with the identifier of the person that row represents.
