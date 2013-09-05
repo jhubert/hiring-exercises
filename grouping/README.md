@@ -1,6 +1,6 @@
 # Programming Exercise - Grouping
 
-The objective of this exercise is to identify rows in a CSV file that
+The goal of this exercise is to identify rows in a CSV file that
 may represent the __same person__ based on a provided **matching type**.
 
 ## Guidelines
@@ -8,7 +8,6 @@ may represent the __same person__ based on a provided **matching type**.
 * Use any language you want, as long as it can be compiled on OSX
 * As usual, you can't use any code that you don't have license to use
 * For the exercise, headers are considered to be consistant across files
-* Tests are awesome
 
 ## Resources
 
