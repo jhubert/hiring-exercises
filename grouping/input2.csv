@@ -1,6 +1,1 @@
-FirstName,LastName,Phone1,Phone2,Email1,Email2,StreetAddress,City,State,Zip,Country
-John,Smith,(555) 123-4567,(555) 987-6543,johns@home.com,,123 Apple St,San Francisco,CA,94105,USA
-Jane,Smith,(555) 123-4567,(555) 654-9873,janes@home.com,johns@home.com,123 Apple St,San Francisco,CA,94105,USA
-Jack,Smith,(444) 123-4567,(444) 654-9873,jacks@home.com,,123 Apple St,San Francisco,CA,94105,USA
-Josh,Smith,(456) 789-0123,,joshs@home.com,,456 Bacon St,San Francisco,CA,94109,USA
-
+FirstName,LastName,Phone1,Phone2,Email1,Email2,ZipJohn,Doe,(555) 123-4567,(555) 987-6543,johnd@home.com,,94105Jane,Doe,(555) 123-4567,(555) 654-9873,janed@home.com,johnd@home.com,94105Jack,Doe,(444) 123-4567,(555) 654-9873,jackd@home.com,,94109Josh,Doe,(456) 789-0123,,joshd@home.com,jackd@home.com,94109
