@@ -6,15 +6,15 @@ may represent the __same person__ based on a provided **matching type**.
 ## Guidelines
 
 * Use any language you want, as long as it can be compiled on OSX
-* As usual, you can't use any code that you don't have license to use
-* For the exercise, headers are considered to be consistant across files
+* Don't use any code that you don't have license to use
+* For the exercise, headers are considered to be consistent across files
 
 ## Resources
 
 ### CSV Files
 
 Two sample input files are included. Both files should be successfully
-processed by the resuling code.
+processed by the resulting code.
 
 ### Matching Types
 
