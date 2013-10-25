@@ -10,6 +10,7 @@ records with the same email or records with the same phone number.
 
 * Use any language you want, as long as it can be compiled on OSX
 * Don't use any code that you don't have license to use
+* Don't hesitate to ask us any questions to clarify the project
 * For the exercise, headers are considered to be consistent across files
 
 ## Resources
