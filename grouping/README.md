@@ -1,7 +1,10 @@
 # Programming Exercise - Grouping
 
 The goal of this exercise is to identify rows in a CSV file that
-may represent the __same person__ based on a provided **matching identifier**.
+may represent the __same person__ based on a provided **matching identifiers**.
+
+The resulting program should allow us to provide a matching identifier for
+records with the same email or records with the same phone number.
 
 ## Guidelines
 
@@ -13,7 +16,7 @@ may represent the __same person__ based on a provided **matching identifier**.
 
 ### CSV Files
 
-Two sample input files are included. Both files should be successfully
+Three sample input files are included. All files should be successfully
 processed by the resulting code.
 
 ### Matching Identifier
