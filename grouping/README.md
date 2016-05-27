@@ -1,10 +1,12 @@
 # Programming Exercise - Grouping
 
 The goal of this exercise is to identify rows in a CSV file that
-may represent the __same person__ based on a provided **matching identifiers**.
+may represent the __same person__ based on a provided **matching type** (definition below).
 
-The resulting program should allow us to provide a matching identifier for
-records with the same email or records with the same phone number.
+The resulting program should allow us to test at least three matching types:
+ - one that matches records with the same email address
+ - one that matches records with the same phone phone number
+ - one that matches records with the same email address OR the same phone number
 
 ## Guidelines
 
@@ -20,13 +22,12 @@ records with the same email or records with the same phone number.
 Three sample input files are included. All files should be successfully
 processed by the resulting code.
 
-### Matching Identifier
+### Matching Type
 
-A matching identifier is an identifying feature used by an algorithm to
-compare rows.
+A matching type is a declaration of what logic should be used to compare the rows.
 
-For example: same_email would make use of an algorithm that matches rows based
-on email columns
+For example: A matching type named same_email might make use of an algorithm that 
+matches rows based on email columns.
 
 ## Interface
 
@@ -35,5 +36,5 @@ and the matching type.
 
 ## Output
 
-The expected output is a new CSV file that has the original rows marked
-with the identifier of the person that row represents.
+The expected output is a copy of the original CSV file with the unique 
+identifier of the person each row represents prepended to the row.
