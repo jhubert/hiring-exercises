@@ -1,7 +1,7 @@
 # Programming Exercise - Grouping
 
 The goal of this exercise is to identify rows in a CSV file that
-may represent the __same person__ based on a provided **matching type** (definition below).
+__may__ represent the __same person__ based on a provided __Matching Type__ (definition below).
 
 The resulting program should allow us to test at least three matching types:
  - one that matches records with the same email address
@@ -11,9 +11,8 @@ The resulting program should allow us to test at least three matching types:
 ## Guidelines
 
 * Use any language you want, as long as it can be compiled on OSX
-* Don't use any code that you don't have license to use
+* Only use code that you have license to use
 * Don't hesitate to ask us any questions to clarify the project
-* For the exercise, headers are considered to be consistent across files
 
 ## Resources
 
