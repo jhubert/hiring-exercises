@@ -10,6 +10,7 @@ The resulting program should allow us to test at least three matching types:
 
 ## Guidelines
 
+* **Please DO NOT fork this repository with your solution**
 * Use any language you want, as long as it can be compiled on OSX
 * Only use code that you have license to use
 * Don't hesitate to ask us any questions to clarify the project
