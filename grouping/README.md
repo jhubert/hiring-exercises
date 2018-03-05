@@ -5,7 +5,7 @@ __may__ represent the __same person__ based on a provided __Matching Type__ (def
 
 The resulting program should allow us to test at least three matching types:
  - one that matches records with the same email address
- - one that matches records with the same phone phone number
+ - one that matches records with the same phone number
  - one that matches records with the same email address OR the same phone number
 
 ## Guidelines
